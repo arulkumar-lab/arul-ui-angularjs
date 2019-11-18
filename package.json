@@ -1,10 +1,21 @@
 {
-  "name": "angular-seed",
+  "name": "arul-ui-angularjs",
   "private": true,
   "version": "1.0.0",
   "description": "arul-ui-angularjs project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arulkumar-lab/arul-ui-angularjs.git"
+  },
+  "keywords": [
+    "arul",
+    "ui",
+    "angular",
+    "angularjs",
+    "webpack",
+    "javascript"
+  ],
+  "license": "ISC",
   "dependencies": {
     "angular": "^1.7.5",
     "angular-loader": "^1.7.5",
