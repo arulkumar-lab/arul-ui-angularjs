@@ -17,7 +17,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-loader": "^1.7.9",
     "angular-route": "^1.7.9",
     "html5-boilerplate": "0.0.1"
